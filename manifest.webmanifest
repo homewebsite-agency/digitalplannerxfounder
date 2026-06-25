@@ -1,0 +1,19 @@
+{
+  "name": "Planner Digital · founder",
+  "short_name": "Planner",
+  "description": "Tu planner de fundador/a: día, mes, hábitos y dinero. Se rellena y se guarda en tu móvil.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5EFE6",
+  "theme_color": "#F5EFE6",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
